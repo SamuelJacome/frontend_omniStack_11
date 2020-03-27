@@ -10,4 +10,4 @@ The Be Hero consiste em um sistema para ajudar ongs a conseguir doações para i
 - axios
 
 
-Link do Projeto: https://samueljacome.netlify.com/
+Link: https://samueljacome.netlify.com/
